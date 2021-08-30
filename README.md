@@ -1,3 +1,4 @@
+<html>
 <body bgcolor = **#2432BE** >
 <h1 align="center">Hi 👋, I'm Carly</h1>
 <h3 align="center">I’m interested in full stack website, game & app development</h3>
@@ -23,3 +24,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thabai&label=Profile%20views&color=0e75b6&style=flat" alt="thabai" /> </p>
 </body>
+</html>
