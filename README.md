@@ -1,4 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&width=100%&section=header&text="Hi 👋, I'm Carly"&fontSize=100 />
+                                                                                                                         
+                                                                                                                         
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 
 <h3 align="center">I’m interested in full stack website, game & app development</h3>
 
