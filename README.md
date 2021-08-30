@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![Thabai's GitHub stats](https://github-readme-stats.vercel.app/api?username=thabai)](https://github.com/anuraghazra/github-readme-stats)
+
