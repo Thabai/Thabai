@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text="Hi 👋, I'm Carly"&fontSize=100 />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text="Hi%20👋,%20I'm%20Carly"&fontSize=100 />
                                                                                                                          
                                                                                                                          
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=capsulerender&fontSize=90)
 
 <h3 align="center">I’m interested in full stack website, game & app development</h3>
 
