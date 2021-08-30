@@ -25,4 +25,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thabai&label=Profile%20views&color=0e75b6&style=flat" alt="thabai" /> </p>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer" />
+![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer)
