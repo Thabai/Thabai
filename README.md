@@ -24,5 +24,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thabai&hide=stars&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thabai&label=Profile%20views&color=0e75b6&style=flat" alt="thabai" /> </p>
-
-![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer)
