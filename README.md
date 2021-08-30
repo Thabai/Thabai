@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&width=100%&section=header&text="Hi 👋, I'm Carly"&fontSize=100 />
 
-<h1 align="center">Hi 👋, I'm Carly</h1>
 <h3 align="center">I’m interested in full stack website, game & app development</h3>
 
 <h4 align="center">🌱 I studied with CodeNation on their master coding program using the MERN stack</h4>
