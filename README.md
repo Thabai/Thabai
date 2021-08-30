@@ -1,4 +1,4 @@
-<div align="center">![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=footer&text=Hi%20👋,%20I'm%20Carly&fontSize=90)</div>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&align="center"&section=footer&text=Hi%20👋,%20I'm%20Carly&fontSize=90)
 
 <h3 align="center">I’m interested in full stack website, game & app development</h3>
 
