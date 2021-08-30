@@ -1,4 +1,4 @@
-<div background="lightgrey">
+<div background="grey">
 <h1 align="center">Hi 👋, I'm Carly</h1>
 <h3 align="center">I’m interested in full stack website, game & app development</h3>
 
