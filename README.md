@@ -31,8 +31,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thabai&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0e75b6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thabai&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=028A0F" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thabai&hide=stars&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0e75b6" alt="Martin's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thabai&hide=stars&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=028A0F" alt="Martin's GitHub Stats" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thabai&label=Profile%20views&color=0e75b6&style=flat" alt="thabai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thabai&label=Profile%20views&color=028A0F&style=flat" alt="thabai" /> </p>
