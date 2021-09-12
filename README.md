@@ -4,7 +4,7 @@
 
 <h4 align="center">🌱 I studied with CodeNation on their master coding program using the MERN stack</h4>
 
-<h4 align="center">🌱 I’m currently learning Angular </h4>
+<h4 align="center">🌱 I’m currently learning Java</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
